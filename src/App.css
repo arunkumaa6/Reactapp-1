@@ -1,0 +1,22 @@
+.container{
+  background-color: aqua;
+  padding: 25px;
+}
+
+.a1{
+  margin-left: 30px;
+  text-decoration: none;
+}
+.a2{
+  margin-left: 30px;
+  text-decoration: none;
+}
+.a3{
+  margin-left: 80%;
+  text-decoration: none;
+}
+.a4{
+  margin-left: 30px;
+  text-decoration: none;
+  border-radius: 20px;
+}
